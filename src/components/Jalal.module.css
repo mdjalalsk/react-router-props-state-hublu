@@ -1,0 +1,18 @@
+.btn1{
+    background-color:red;
+    color:whitesmoke;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+}
+.btn1:hover{
+    background-color:blueviolet;
+    transition: ease-in 5ms;
+}
+.coustomheading{
+    text-align: center;
+    color:rgb(238, 10, 101);
+    background-color:dimgray;
+    text-decoration: underline;
+    justify-content: center;
+}
